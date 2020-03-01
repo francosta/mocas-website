@@ -6,7 +6,7 @@ module.exports = {
     description: `Miguel Carvalho - Data Scientist`,
     hero: {
       heading: `Hi, welcome - I'm Miguel 👋🏼 <br /> Feel free to browse around and let me know what you think!`,
-      maxWidth: 652
+      maxWidth: 1000
     },
     social: [
       {
